@@ -83,7 +83,7 @@ Output: `bin/Release/net8.0-windows/win-x64/publish/HideTaskbarIcon.exe`
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/LKOMOHITSINGH/hide-taskbar-icon/blob/main/README.md) file for details.
+This project is licensed under the MIT License - see the [[LICENSE]](https://github.com/LKOMOHITSINGH/hide-taskbar-icon/blob/main/LICENSE.md) file for details.
 
 ## 🙏 Acknowledgments
 
