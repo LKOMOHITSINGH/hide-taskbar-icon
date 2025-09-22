@@ -55,7 +55,8 @@ A lightweight Windows utility that allows you to hide any application's taskbar 
 ## 📸 Screenshots
 
 ### Main Window
-<img width="550" height="413" alt="main-window" src="https://github.com/user-attachments/assets/09b85243-286c-4a9a-af82-e2c4c260ae4c" />
+<img width="623" height="413" alt="Screenshot 2025-09-22 215038" src="https://github.com/user-attachments/assets/8a7faebe-6fec-4019-8344-c28dd8f7a6b9" />
+
 
 *Select any running application and hide its taskbar icon*
 
