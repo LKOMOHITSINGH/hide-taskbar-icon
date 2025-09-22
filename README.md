@@ -15,6 +15,21 @@ A lightweight Windows utility that allows you to hide any application's taskbar 
 - 📦 **Portable** - no installation required
 - 🛡️ **Safe** - restores all hidden windows on exit
 
+### ✨ New Features
+- 🔝 **Always On Top functionality** - Pin any window above all others
+- 📋 **Enhanced status column** - Shows both Hidden and On Top status
+- 🎨 **Color-coded interface** - Easy visual identification of window states
+- 🔄 **Toggle functionality** - Easily toggle windows on/off from always on top
+- 📱 **System tray integration** - Remove all always on top windows from tray menu
+- 🎯 **Hide any application's taskbar icon** while keeping it running
+
+### 🛠️ Improvements
+- ✅ Better window state management
+- ✅ Improved multi-selection handling
+- ✅ Enhanced visual feedback with color coding
+- ✅ More robust error handling
+- ✅ Cleaner user interface
+  
 ## 📥 Download
 
 **[Download Latest Release](../../releases/latest)**
